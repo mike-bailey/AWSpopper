@@ -1,3 +1,3 @@
 export AWS_REGION="us-east-1"
-export AWS_ACCESS_KEY_ID="AKIAIH24Y4MBKW6XLOJQ"
-export AWS_SECRET_ACCESS_KEY="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"
+export AWS_ACCESS_KEY_ID="keykeykeykey"
+export AWS_SECRET_ACCESS_KEY="keykeykeykey
